@@ -40,4 +40,4 @@ To keep the `main` branch clean, follow these steps:
 3. **Syncing:** Before starting work, check the `main` branch to see the latest integrated code from other members.
 
 ---
-*Created by Sanika - Project Coordinator*
+*Created by Sanika*
